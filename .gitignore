@@ -2,3 +2,8 @@ token.pickle
 credentials.json
 .idea/
 src/config.py
+bin/
+lib/
+pyvenv.cfg
+src/__pycache__/
+
