@@ -1,3 +1,4 @@
-echo $PWD
-source $PWD/bin/activate
-python $PWD/src/main.py
+#!/bin/bash
+HOME=/home/pi/workspace/nurseryEmailSender
+source $HOME/bin/activate
+python $HOME/src/main.py
